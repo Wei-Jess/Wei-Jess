@@ -19,6 +19,10 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ubuntu20.04.5使用acme.sh为NameSilo申请泛域名证书，为网站添加SSL开启HTTPS](https://www.vinjess.com/posts/4fc64cc7.html)
+- [Pve7.2-x升级与优化教程](https://www.vinjess.com/posts/123ef415.html)
+- [OpenWrt的DDNS服务开机或重启后无法自启_解决方法](https://www.vinjess.com/posts/b675a796.html)
+- [Ubuntu20.04.5上使用命令安装RocketChat](https://www.vinjess.com/posts/1bd586c8.html)
 <!-- BLOG-POST-LIST:END -->
 
 <img src="https://cdn.jsdelivr.net/gh/Wei-Jess/Wei-Jess/profile/github-contribution-grid-snake-dark.svg" /><br/><br/>
